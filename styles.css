@@ -1,6 +1,7 @@
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: #f8f9fa;
+    background-color: #121212;
+    color: #ffffff;
 }
 
 .container {
@@ -10,15 +11,11 @@ body {
 
 h1 {
     font-weight: 700;
-    color: #333;
 }
 
 .btn {
     height: 50px;
     font-size: 16px;
-}
-
-.btn-primary, .btn-success, .btn-info {
     border-radius: 5px;
 }
 
